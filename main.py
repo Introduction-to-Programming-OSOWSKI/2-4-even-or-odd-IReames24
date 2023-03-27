@@ -1,5 +1,5 @@
-def isEven(n):
-    if n % 2 == 0:
+def isEven(x):
+    if x % 2 == 0:
         return("true")
     else:
         return("false")
