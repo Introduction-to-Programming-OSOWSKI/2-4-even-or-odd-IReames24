@@ -1,5 +1,5 @@
 def isEven(x):
     if x % 2 == 0:
-        return("true")
+        return True
     else:
-        return("false")
+        return False
